@@ -1,0 +1,32 @@
+aid: transport-for-auckland-new-zealand
+name: Transport for Auckland, New Zealand
+description: "Auckland Transport"
+url: https://dev-portal.at.govt.nz/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Transportation"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Transportation
+  - Public APIs
+apis:
+  - name: Transport for Auckland, New Zealand
+    description: "Auckland Transport"
+    humanURL: https://dev-portal.at.govt.nz/
+    baseURL: https://dev-portal.at.govt.nz/
+    tags:
+      - Transportation
+    properties:
+      - type: Documentation
+        url: https://dev-portal.at.govt.nz/
+common:
+  - type: Website
+    url: https://dev-portal.at.govt.nz/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
