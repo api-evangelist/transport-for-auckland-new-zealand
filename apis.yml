@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://dev-portal.at.govt.nz/
 common:
+  - type: DomainSecurity
+    url: security/transport-for-auckland-new-zealand-domain-security.yml
   - type: Website
     url: https://dev-portal.at.govt.nz/
   - type: PublicAPIsListing
