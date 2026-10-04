@@ -39,7 +39,6 @@ apis:
   - name: Transport for Auckland, New Zealand
     description: "Auckland Transport"
     humanURL: https://dev-portal.at.govt.nz/
-    baseURL: https://dev-portal.at.govt.nz/
     tags:
       - Transportation
     properties:
